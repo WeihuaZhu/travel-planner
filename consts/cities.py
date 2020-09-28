@@ -21,7 +21,7 @@ VISIT_CITIES_LONG_LAT = {
 # TODO add London, UK
 
 # each entry: (source_city, destination_city, spatial_distance, temporal_distance)
-DISTANCE_PAIRS = [
+CITY_DISTANCE_PAIRS = [
     ("Rotterdam, Netherlands", "Amsterdam, Netherlands", 75.09960000000001, 65.855),
     ("Rotterdam, Netherlands", "Brussels, Belgium", 159.68779999999998, 113.70166666666667),
     ("Rotterdam, Netherlands", "Barcelona, Spain", 1475.219, 852.7366666666666),
