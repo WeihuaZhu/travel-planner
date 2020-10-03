@@ -1,4 +1,5 @@
 # travel-planner
+Given cities wanted to travel, calculate the shortest path to visit each city exactly once.
 
 ## shortest path
 Timecost: 2596.045 minutes => ~ 44 hours
